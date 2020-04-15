@@ -1,0 +1,14 @@
+server:
+ port: 2501
+teststr:
+ mystring1: "123\n"
+ mystring2: '123\n'
+friends1:
+  name: '1'
+  age: 1
+friends2: {name: '1', age: 1}
+pets1:
+ - cat
+ - dog
+ - pig
+pets2: [cat,dog,pig]
